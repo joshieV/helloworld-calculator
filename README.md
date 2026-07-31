@@ -1,7 +1,7 @@
 # helloworld-calculator
 The world most useless calculator, built with pure fun
 
-[**Website link**](https://joshieV.github.io/helloworld-calculator/)
+[**CLICK THE LINK TO VIEW THE WEBSITE**](https://joshieV.github.io/helloworld-calculator/)
 
 ![The website in its glory](https://github.com/user-attachments/assets/6de8423e-3223-4b27-bd41-13c102aeb27e)
 
