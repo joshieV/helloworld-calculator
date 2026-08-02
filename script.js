@@ -38,9 +38,6 @@ document.addEventListener('DOMContentLoaded', function() {
 
     function chooseOperation(op) {
         if (currentInput === '') return;
-        if (previousInput !== '') {
-            compute();
-        }
         operation = op;
         previousInput = currentInput;
         shouldResetScreen = true;
